@@ -7,3 +7,8 @@ print("This is a demo file"
       "This file is not intended for production use."
       "It is only meant to demonstrate the use of multi-line strings in Python."
       "This file can be used to test the functionality of the Python interpreter.")
+print("This is a demo file"
+      "for testing purposes."
+      "This file is not intended for production use."
+      "It is only meant to demonstrate the use of multi-line strings in Python."
+      "This file can be used to test the functionality of the Python interpreter.")
